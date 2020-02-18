@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24660fb9-126b-4ee4-80cb-219e551481ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Tm9tUfjvBPNEjyCwCRwpPfWxjg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37571838" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MySqlToHive">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sparkreportingmain" />
+      <option name="VM_PARAMETERS" value="-Xms10g -Xmx10g" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySqlToHive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MySqlToHive" />
+      <module name="sparkreportingmain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MySqlToHive" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24660fb9-126b-4ee4-80cb-219e551481ac" name="Default Changelist" comment="" />
+      <created>1574054618214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574054618214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2581" y="256" width="1639" height="669" key="#Project_Structure" timestamp="1581923517410">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state x="440" y="202" key="#Project_Structure/1680.23.3440.1337/0.23.1680.1027@0.23.1680.1027" timestamp="1575348502557" />
+    <state x="2581" y="256" width="1639" height="669" key="#Project_Structure/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1581923517410" />
+    <state x="2515" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581919976338">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state x="2515" y="278" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1581919976338" />
+    <state x="2793" y="328" key="#com.intellij.ide.util.MemberChooser" timestamp="1582014915388">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state x="2793" y="328" key="#com.intellij.ide.util.MemberChooser/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582014915388" />
+    <state x="2788" y="407" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581919897459">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state x="2788" y="407" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1581919897459" />
+    <state x="528" y="271" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575348260632">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="528" y="271" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1680.23.3440.1337/0.23.1680.1027@0.23.1680.1027" timestamp="1575348260632" />
+    <state width="1358" height="329" key="GridCell.Tab.0.bottom" timestamp="1582019732201">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.0.bottom/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732201" />
+    <state width="1358" height="266" key="GridCell.Tab.0.bottom/1680.23.3440.1417/0.23.1680.963@1680.23.3440.1417" timestamp="1575532171710" />
+    <state width="1358" height="329" key="GridCell.Tab.0.center" timestamp="1582019732200">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.0.center/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732200" />
+    <state width="1358" height="266" key="GridCell.Tab.0.center/1680.23.3440.1417/0.23.1680.963@1680.23.3440.1417" timestamp="1575532171710" />
+    <state width="1358" height="329" key="GridCell.Tab.0.left" timestamp="1582019732199">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.0.left/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732199" />
+    <state width="1358" height="266" key="GridCell.Tab.0.left/1680.23.3440.1417/0.23.1680.963@1680.23.3440.1417" timestamp="1575532171709" />
+    <state width="1358" height="329" key="GridCell.Tab.0.right" timestamp="1582019732200">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.0.right/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732200" />
+    <state width="1358" height="266" key="GridCell.Tab.0.right/1680.23.3440.1417/0.23.1680.963@1680.23.3440.1417" timestamp="1575532171710" />
+    <state width="1358" height="329" key="GridCell.Tab.1.bottom" timestamp="1582019732202">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.1.bottom/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732202" />
+    <state width="1358" height="329" key="GridCell.Tab.1.center" timestamp="1582019732201">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.1.center/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732201" />
+    <state width="1358" height="329" key="GridCell.Tab.1.left" timestamp="1582019732201">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.1.left/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732201" />
+    <state width="1358" height="329" key="GridCell.Tab.1.right" timestamp="1582019732202">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="329" key="GridCell.Tab.1.right/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1582019732202" />
+    <state x="3282" y="453" key="Maven.ArtifactSearchDialog" timestamp="1575348550967">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state x="3282" y="453" key="Maven.ArtifactSearchDialog/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1575348550967" />
+    <state x="3138" y="414" key="new project wizard" timestamp="1575349311462">
+      <screen x="1680" y="23" width="3440" height="1337" />
+    </state>
+    <state x="3138" y="414" key="new project wizard/1680.23.3440.1337/0.23.1680.1027@1680.23.3440.1337" timestamp="1575349311462" />
+    <state x="3688" y="473" width="670" height="676" key="search.everywhere.popup" timestamp="1575530698564">
+      <screen x="1680" y="23" width="3440" height="1417" />
+    </state>
+    <state x="3688" y="473" width="670" height="676" key="search.everywhere.popup/1680.23.3440.1417/0.23.1680.963@1680.23.3440.1417" timestamp="1575530698564" />
+  </component>
+</project>
